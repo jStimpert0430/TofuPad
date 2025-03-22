@@ -16,7 +16,7 @@ Created primarily with DJMAX and Taiko No Tatsujin in mind, but should be compat
 
 `12x low profile gatreon keyboard microswitches of your choice`
 
-This case is sized exactly for this particular flavor of Pico clone and while others may fit, they will likely be loose in the socket leading to issues plugging in the USB. In addition, most low profile microswitches should work, but full sized will be too tall to fit without removing part or more of the legs. 
+This case is sized exactly for this particular flavor of Pico clone and while others may fit, they will likely be loose in the socket leading to issues plugging in the USB. In addition, most low profile microswitches should work, but full sized will be too tall to fit without removing part or most of the legs. 
 
 ## Firmware installation
 Refer to the [GP2040 installation wiki](https://gp2040-ce.info/controller-build/wiring/) for more detailed instructions, but a quick step by step is --
