@@ -27,11 +27,15 @@ Refer to the GP2040 installation wiki for more detailed instructions, but a quic
 4. reboot device and if everything went correctly, the firmware should be installed.
 
 NOTE: 
-as GP2040 is primarily a competetive fighting game firmware for use across various tournament settings, SOCD cleaning is enabled by default and could cause some issues in rhythm games when left or right or up and down will need to be pressed at the same time. Once the project is assembled you can configure this option and others by holding start while plugging in the device and navigating to the configuration webUI in the browser. I wanted to use it in this project for it's extreme low latency, compatability with range of devices, the ability to edit debounce and remap pin values on a software level. I find it just werks for what I need it for and where I need it. It's a fantastic piece of software for controllers
+  As GP2040 is primarily a competetive fighting game firmware for use across various tournament settings, SOCD cleaning is enabled by default and could cause some issues in rhythm games when left or right or up and down will need to be pressed at the same time. Once the project is assembled you can configure this option and others by holding start while plugging in the device and navigating to the configuration webUI in the browser. 
+
+I wanted to use it in this project for it's extreme low latency, compatability with range of devices, the ability to edit debounce and remap pin values on a software level. I find it "just werks" for what I need it for and where I need it. It's a fantastic piece of software for homebrew controllers
 
 ## Wiring
 
 To make this case as stable and as solid sounding as possible when it's being bashed on it was required to design the case with as tight of a fit possible so planning wiring and laying everything out cleanly is important to success. I used cellotape to keep wires orderly as I was laying everything out and cutting to length as I soldered everything into the Pico pins. 
+
+This is definetly not a completely entry level soldering project. There has to be a little planning on laying our your paths and experience soldering on very small points such as the legs of a low profile mechanical microswitch. But with a little bit of experience I imagine most people will be able to find success.
 
 Going forward, I'd like to design an actual PCB for this project but as I had a working device already I thought it might be better to just release it and post revisions as I reach milestones with the project. Currently the pinouts are as follows
 
