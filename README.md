@@ -74,4 +74,5 @@ Going forward, I'd like to design an actual PCB but as I had a working device al
 1. Snap keyboard microswitches into plate sockets with pins facing south
 2. Wire and fit halves together as outlined in the guide above
 3. Once halves are flush together, start with middle screw and work your way from the outside corners in
-4. Plug in and enjoy!
+4. Add keycaps to switches
+5. Plug in and enjoy!
