@@ -20,7 +20,7 @@ Created primarily with DJMAX and Taiko No Tatsujin in mind, but should be compat
 
 This case is sized exactly for this particular flavor of Pico clone and while others may fit, they will likely be loose in the socket leading to issues plugging in the USB. In addition, most low profile microswitches should work, but full sized will be too tall to fit without removing part or most of the legs.
 
-In addition, you might want to try microswitches that have a lower actuation point. Most low profile linears have a really high actuation point and can make pressing buttons feel a little akward as you get used to it, since it will activate as soon as you touch the button rather than when you're close to bottoming out like most traditional rhythm game microswitches do. Consider possibly a tactile switch to help with this.
+You may also want to try microswitches that have a lower actuation point. Most low profile linears have a really high actuation point and can make pressing buttons feel a little akward as you get used to it, since it will activate as soon as you touch the button rather than when you're close to bottoming out like most traditional rhythm game microswitches do. Consider possibly a tactile switch to help with this.
 
 ## Firmware installation
 Refer to the [GP2040 installation wiki](https://gp2040-ce.info/controller-build/wiring/) for more detailed instructions, but a quick step by step is --
