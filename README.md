@@ -64,3 +64,5 @@ Going forward, I'd like to design an actual PCB but as I had a working device al
 `GP17(Default Start button) - Button 12(Right side square button)`
 
 `GP18(Default Select button) - Button 11(Left side square button) `
+
+![Preview](https://gp2040-ce.info/assets/images/RaspberryPiPico_Pinout-4650ef12c24cc3cb5f8ff7ddbcbfafee.svg "Preview Screenshot")
