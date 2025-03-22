@@ -75,4 +75,5 @@ Going forward, I'd like to design an actual PCB but as I had a working device al
 2. Wire and fit halves together as outlined in the guide above
 3. Once halves are flush together, start with middle screw and work your way from the outside corners in
 4. Add keycaps to switches
-5. Plug in and enjoy!
+5. Add some rubber electronics feet to the bottom of the case to prevent sliding, but keep height in mind so it doesn't sit too tall
+6. Plug in and enjoy!
