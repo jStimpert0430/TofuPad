@@ -31,7 +31,7 @@ as GP2040 is primarily a competetive fighting game firmware for use across vario
 
 ## Wiring
 
-To make this case as stable and as solid sounding as possible it was required to design the case with as tight of a fit possible so planning wiring and laying everything out cleanly is important to success. I used cellotape to keep wires orderly as I was laying everything out and cutting to length as I soldered everything into the Pico pins. 
+To make this case as stable and as solid sounding as possible when it's being bashed on it was required to design the case with as tight of a fit possible so planning wiring and laying everything out cleanly is important to success. I used cellotape to keep wires orderly as I was laying everything out and cutting to length as I soldered everything into the Pico pins. 
 
 Going forward, I'd like to design an actual PCB for this project but as I had a working device already I thought it might be better to just release it and post revisions as I reach milestones with the project. Currently the pinouts are as follows
 
