@@ -69,6 +69,7 @@ Going forward, I'd like to design an actual PCB with hotswap sockets but as I ha
 
 `GP18(Default Select button) - Button 11(Left side square button) `
 
+### Important: Remember when you're soldering buttons on the faceplate with the face down, right and left will be switched, we've all made those mistakes.
 
 ## Assembly
 1. Snap keyboard microswitches into plate sockets with pins facing south
