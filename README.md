@@ -19,9 +19,9 @@ Created primarily with DJMAX and Taiko No Tatsujin in mind, but should be compat
 This case is sized exactly for this particular flavor of Pico clone and while others may fit, they will likely be loose in the socket leading to issues plugging in the USB. In addition, most low profile microswitches should work, but full sized will be too tall to fit without removing part or more of the legs. 
 
 ## Firmware installation
-Refer to the GP2040 installation wiki for more detailed instructions, but a quick step by step is --
+Refer to the [GP2040 installation wiki](https://gp2040-ce.info/controller-build/wiring/) for more detailed instructions, but a quick step by step is --
 
-1. Download most recent version of GP2040-CE firmware
+1. Download most recent version of [GP2040-CE firmware](https://gp2040-ce.info/downloads)
 2. Put RP2040 into bootsel mode by holding the boot button on the board while plugging in the device
 3. Copy the .uf2 file into the flash memory of the RP2040 using your preffered file manager
 4. reboot device and if everything went correctly, the firmware should be installed.
