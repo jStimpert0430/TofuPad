@@ -39,6 +39,8 @@ To make this case as stable and as solid sounding as possible while it's being b
 
 Going forward, I'd like to design an actual PCB but as I had a working device already I thought it might be better to just release it and post revisions as I reach milestones with the project. Currently the pinouts are as follows
 
+[GP2040 pinout image](https://gp2040-ce.info/assets/images/RaspberryPiPico_Pinout-4650ef12c24cc3cb5f8ff7ddbcbfafee.svg)
+
 `ground -> ground of button 8 daisy chained from here to the rest of the buttons`
 
 `GP02(Default up) - Button 3(Left side middle finger button)`
@@ -64,5 +66,3 @@ Going forward, I'd like to design an actual PCB but as I had a working device al
 `GP17(Default Start button) - Button 12(Right side square button)`
 
 `GP18(Default Select button) - Button 11(Left side square button) `
-
-![Preview](https://gp2040-ce.info/assets/images/RaspberryPiPico_Pinout-4650ef12c24cc3cb5f8ff7ddbcbfafee.svg "Preview Screenshot")
