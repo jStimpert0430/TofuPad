@@ -68,3 +68,10 @@ Going forward, I'd like to design an actual PCB but as I had a working device al
 `GP17(Default Start button) - Button 12(Right side square button)`
 
 `GP18(Default Select button) - Button 11(Left side square button) `
+
+
+## Assembly
+1. Snap keyboard microswitches into plate sockets with pins facing south
+2. Wire and fit halves together as outlined in the guide above
+3. Once halves are flush together, start with middle screw and work your way from the outside corners in
+4. Plug in and enjoy!
