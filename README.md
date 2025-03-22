@@ -27,7 +27,7 @@ Refer to the [GP2040 installation wiki](https://gp2040-ce.info/controller-build/
 4. reboot device and if everything went correctly, the firmware should be installed.
 
 NOTE: 
-  As GP2040 is primarily a competetive fighting game firmware for use across various tournament settings, SOCD cleaning is enabled by default and could cause some issues in rhythm games when left or right or up and down will need to be pressed at the same time. Once the project is assembled you can configure this option and others by holding start while plugging in the device and navigating to the configuration webUI in the browser. 
+  As GP2040 is primarily a competetive fighting game firmware for use across various tournament settings, SOCD cleaning is enabled by default and could cause some issues in rhythm games when left or right or up and down will need to be pressed at the same time. Once the project is assembled you can configure this option and others by holding start while plugging in the device and navigating to the configuration webUI in your browser. 
 
 I wanted to use it in this project for it's extreme low latency, compatability with range of devices, the ability to edit debounce and remap pin values on a software level. I find it "just werks" for what I need it for and where I need it. It's a fantastic piece of software for homebrew controllers
 
