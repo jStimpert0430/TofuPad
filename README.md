@@ -79,5 +79,5 @@ Going forward, I'd like to design an actual PCB with hotswap sockets but as I ha
 5. Add some rubber electronics feet to the bottom of the case to prevent sliding, but keep height in mind so it doesn't sit too tall
 6. Plug in and enjoy!
 
-
+### Example 3D print - BambuLabs A1 with matte black filament
    ![Preview](ExamplePrint.jpg?raw=true "Preview Screenshot")
